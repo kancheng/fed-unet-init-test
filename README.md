@@ -1,5 +1,7 @@
 # Federated Learning [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4321561.svg)](https://doi.org/10.5281/zenodo.4321561)
 
+A demo project showcasing a simple implementation of federated learning combined with UNet-based image segmentation for introductory experimentation and testing.
+
 ## Reference
 
 1. Communication-Efficient Learning of Deep Networks from Decentralized Data
